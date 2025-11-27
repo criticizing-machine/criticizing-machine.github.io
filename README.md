@@ -1,2 +1,2 @@
-### Reasoning Machine
-A Machine that reasons.
+### Criticizing Machine
+A Machine that criticizes.

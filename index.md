@@ -1,19 +1,21 @@
 ---
 layout: home
-title: Reasoning Machine
+title: Criticizing Machine
 ---
-# Reasoning Machine
+# Criticizing Machine
 
 <pre>
   'Machina Ratiocinatrix' is a term used by Norbert Wiener in the introduction to his 
   book "Cybernetics, or Control and Communication in the Animal and the Machine".
 </pre>
 
-[Reasoning-Machine (meta)](https://reasoning-machine.github.io/meta/)
+[Criticizing-Machine (meta)](https://criticizing-machine.github.io/meta/)
 
-[Reasoning-Machine (openai)](https://reasoning-machine.github.io/openai/)
+[Criticizing-Machine (oaio)](https://criticizing-machine.github.io/oaio/)
 
-[Reasoning-Machine (fireworks)](https://reasoning-machine.github.io/fireworks/)
+[Criticizing-Machine (gemini)](https://criticizing-machine.github.io/gemini/)
 
-[Reasoning-Machine (depsek)](https://reasoning-machine.github.io/depsek/)
+[Criticizing-Machine (grok)](https://criticizing-machine.github.io/grok/)
+
+[Criticizing-Machine (depsek)](https://criticizing-machine.github.io/depsek/)
 
