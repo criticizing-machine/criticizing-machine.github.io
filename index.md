@@ -17,5 +17,7 @@ title: Criticizing Machine
 
 [Criticizing-Machine (grok)](https://criticizing-machine.github.io/grok/)
 
+[Criticizing-Machine (depsek)](https://criticizing-machine.github.io/depsek/)
+
 [Criticizing-Machine (depsekr)](https://criticizing-machine.github.io/depsekr/)
 
